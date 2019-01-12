@@ -1,1 +1,1 @@
-Repositório usado para publicar os estudos sobre Aprendizado de Máquina, do meu PIBIC.
+Testando algoritmos de aprendizado de mÃ¡quina, para o desenvolvimento de um projeto de pesquisa do IFAM.
